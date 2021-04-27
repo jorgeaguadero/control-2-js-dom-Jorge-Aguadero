@@ -1,0 +1,20 @@
+main {
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+body button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid;
+    font-size: 1rem;
+    background-color: rgb(151, 230, 233);
+}
+
+div {
+    height: 100px;
+    width: 100px;
+}
