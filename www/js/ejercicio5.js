@@ -1,5 +1,5 @@
 'use strict';
-const showMeCharacters = async () => {
+async function showMeCharacters() {
     try {
         let episodes = []; //Array vacio para guardar los episodios
         let characters = []; // Array vacio para guardar los personajes
